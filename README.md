@@ -60,3 +60,27 @@ Evaluation Metrics Used:
 •	Gradient Boosting was slightly better but more complex.
 
 •	Tuned Decision Tree was slightly less performant but more interpretable for decision-making.
+
+**Outcome:**
+
+**Key Findings:**
+
+**1.) Top Predictors for Visa Approval:**
+
+Education level (Master’s/PhD > Bachelor’s > High School).
+
+Prior job experience.
+
+Higher prevailing wage (preferably yearly).
+
+Applicants from Europe or targeting the Midwest region.
+
+**2.) Top Predictors for Denial:**
+
+Low education (only high school).
+
+No job experience.
+
+Hourly wage basis.
+
+Applications targeting Island or South America.
