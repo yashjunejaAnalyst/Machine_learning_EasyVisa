@@ -11,11 +11,11 @@ To develop a predictive classification model for the Office of Foreign Labor Cer
 
 **Approach:**
 
-1. Data Understanding & Preprocessing
+**1 Data Understanding & Preprocessing**
 
 •	Dataset includes applicant and employer information (e.g., education, wage, job experience, continent, full-time flag).
 
-•	Preprocessing steps-
+**•	Preprocessing steps-**
 
 o	Checked and confirmed no missing or duplicate values.
 
@@ -27,7 +27,7 @@ o	Used features such as: education_of_employee, has_job_experience, prevailing_w
 
 **2. Exploratory Data Analysis (EDA)**
 
-•	Univariate and Bivariate analysis:
+**•	Univariate and Bivariate analysis:**
 
 o	Most applicants came from Asia, followed by Europe.
 
@@ -39,15 +39,15 @@ o	Regions like Midwest have higher certification rates than others.
 
 **3. Model Building and Evaluation**
    
-Applied various supervised classification models with hyperparameter tuning:
+**Applied various supervised classification models with hyperparameter tuning:**
 
-•	✅ Decision Tree
-•	✅ Bagging Classifier
-•	✅ Random Forest
-•	✅ AdaBoost
-•	✅ Gradient Boosting
-•	✅ XGBoost
-•	✅ Stacking Classifier
+✅ Decision Tree
+✅ Bagging Classifier
+✅ Random Forest
+✅ AdaBoost
+✅ Gradient Boosting
+✅ XGBoost
+✅ Stacking Classifier
 
 Evaluation Metrics Used:
 
